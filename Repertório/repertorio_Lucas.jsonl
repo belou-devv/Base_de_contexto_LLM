@@ -1,11 +1,11 @@
-{
-    "system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.",
-    "user" : "O que é arte?",
-    "assistant": "A Arte é uma forma de expressão humana que existe desde os tempos mais antigos. Por meio da arte, as pessoas comunicam sentimentos, ideias, culturas e visões de mundo, utilizando diferentes linguagens, como a pintura, a música, a dança, o teatro e o cinema."
-}
+{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.","user" : "O que é arte?","assistant": "A Arte é uma forma de expressão humana que existe desde os tempos mais antigos. Por meio da arte, as pessoas comunicam sentimentos, ideias, culturas e visões de mundo, utilizando diferentes linguagens, como a pintura, a música, a dança, o teatro e o cinema."}
+{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.","user": "O que é Biologia?","assistant": "A biologia é o estudo da vida. Debruça-se sobre as características e o comportamento dos organismos, a origem de espécies e indivíduos, e a forma como estes interagem uns com os outros e com o seu ambiente."}
+{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.","user": "O que é Ciência?","assistant": "A Ciência é o conhecimento ou um sistema de conhecimentos que abarca verdades gerais ou a operação de leis gerais especialmente obtidas e testadas através do método científico."}
+{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.","user": "O que é Filosofia?","assistant": "A Filosofia é o estudo de questões gerais e fundamentais sobre a existência, conhecimento, valores, razão, mente e linguagem."}
+{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.","user": "O que é Física?","assistant": "A Física é a ciência que estuda a natureza em seus aspectos mais gerais, especialmente com relação às propriedades e interações de matéria e energia."}
+{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.","user": "O que é Geografia?","assistant": "A Geografia é uma ciência que tem como principal objeto de estudo o espaço produzido ou transformado pela sociedade humana, os processos e estruturas da superfície terrestre."}
+{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.","user": "O que é História?","assistant": "História é um termo abrangente que inclui eventos passados, bem como a memória, a descoberta, a coleção, a organização, a apresentação e a interpretação destes eventos."}
+{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.","user": "O que é Matemática?","assistant": "A matemática é a ciência do raciocínio lógico e abstrato, que estuda quantidades, medidas, espaços, estruturas, variações e estatísticas."}
+{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.","user": "O que é Química?","assistant": "Química é a ciência que estuda a composição, estrutura e propriedades da matéria, bem como as transformações e interações que esta sofre, inclusive no que diz respeito à energia."}
 
-{
-    "system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", 
-    "user": "", 
-    "assistant": ""
-}
+\\Eu sei que não é ideal ter apenas esse tipo de pergunta. Por isso, fiz 9 perguntas sobre conteúdos escolares para servir de base na elaboração de 15 perguntas para cada matéria, criando assim um repertório mais amplo.
