@@ -1,4 +1,49 @@
-{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", "user": "Se eu tenho 3 pessoas em 1 sala e 10 entraram nela, quantas vão ter se sair 2", "assistant": "<think>O usuário perguntou quantas pessoas tem em uma sala, sabemos que dentro da sala há 3 pessoas e entraram 10, então 3 + 10 = 13. Porém, o usuário informou que saíram 2, então 13 - 2 = 11. Conclui-se que no final há 11 pessoas na sala.</think>11 pessoas."}
-{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", "user": "Em uma mesa existem 3 bolas, 1 azul, 1 verde e 1 vermelha, mude para ordem de trás para frente", "assistant": "<think>O usuário solicitou que a lista de cores seja reordenada. Para isso, basta imprimir as palavras na ordem contrária.</think>Vermelha, verde e azul."}
-{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", "user": "Dois médicos atendem 24 pacientes em 6 horas. Mantidas as proporções, três médicos atendem 24 pacientes em quantas horas?", "assistant": "<think>O usuário solicitou que descubra em quantas horas três médicos atendem 24 pacientes, sendo que 2 médicos levam 6 horas. Para isso, basta fazer regra de três inversamente proporcional, ou seja, multiplicar 2 por 6 e 3 por x (x significam as horas que queremos saber). O resultado será 3x = 12, o 3 está multiplicando o x, então passamos para o outro lado dividindo, ou seja x = 12/3, que resulta em 4. Então 3 médicos levam 4 horas para atender 24 pacientes.</think>3 médicos levam 4 horas para atender 24 pacientes."}
-{"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", "user": "Analise a sequência a seguir:1, 6, 12, 19, 27, ...Qual o proximo numero dessa sequência?", "assistant": "<think>O usuário perguntou qual o próximo número da sequência. Para isso, devo interpretar como a sequência se comporta: começa em 1 e vai para 6 então somou-se 5, mas depois de 6 vai para 12, então somou-se 6, concluindo que a soma está aumentando em 1 por número da sequência. Ou seja, se de 12 foi para 19, somou 7; de 19 foi para 27, somou 8. Então o próximo número será 36, porque somará 9 a 27 pela lógica da sequência.</think>36."}
+{
+"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", 
+"user": "Se eu tenho 3 pessoas em 1 sala e 10 entraram nela, quantas vão ter se sair 2", 
+"assistant": "<think>O usuário perguntou quantas pessoas tem em uma sala, sabemos que dentro da sala há 3 pessoas e entraram 10, então 3 + 10 = 13. Porém, o usuário informou que saíram 2, então 13 - 2 = 11. Conclui-se que no final há 11 pessoas na sala.</think>11 pessoas."
+}
+
+{
+"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", 
+"user": "Se eu tenho 10 patos no lago metade saiu voando, mais 4 patos entraram no lago, quantos patos estam no lago?", 
+"assistant": "<think>O usuário perguntou quantos patos tem no lago, inicialmente há 10 patos mas metade saiu, ou seja 10 / 2 = 5, mas 4 patos entraram depois então 5 + 4 = 9. Conclui-se que no final há 9 patos no lago</think>9 patos."
+}
+
+{
+"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", 
+"user": "Em uma ilha tem 2 árvores de maçãs, 1 árvore de laranja e 4 árvores de mangá. Sabendo que cada árvore contém 5 frutas de sua respectiva fruta, quantas frutas tem na ilha?", 
+"assistant": "<think>O usuário perguntou quantas frutas tem em uma ilha, sabemos que cada árvore contém 5 frutas, e temos ao total 7 árvores, ou seja 5 x 7 = 35 frutas.</think>35 frutas na ilha."
+}
+
+{
+"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", 
+"user": "Em uma mesa existem 3 bolas, 1 azul, 1 verde e 1 vermelha. Mude para ordem de trás para frente", 
+"assistant": "<think>O usuário solicitou que a lista de cores seja reordenada. Para isso, basta imprimir as palavras na ordem contrária.</think>Vermelha, verde e azul."
+}
+
+{
+"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", 
+"user": "Em uma sala existem 5 mesas de cores diferentes, 1 azul, 1 verde e 1 vermelha, 1 preta e 1 branca. Mude para ordem de trás para frente", 
+"assistant": "<think>O usuário solicitou que a lista de mesas seja reordenada. Para isso, basta imprimir as cores das mesas na ordem contrária.</think>Branca, preta, vermelha, verde, azul."
+}
+
+{
+"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", 
+"user": "Em um time de futebol tem 5 atletas, Mateus, Vitor, Pablo, Fernando e Marcos. Organize os nomes em ordem alfabetica.", 
+"assistant": "<think>O usuário solicitou que a lista de jogadores seja reordenada em ordem alfabetica. Para isso, basta imprimir os nomes de acordo com a primeira letra do nome seguindo a ordem do alfabeto, se a primeira letra for igual passa para a proxima letra, ou seja, Fernando, Marcos, Mateus, Pablo e Vitor.</think>Fernando, Marcos, Mateus, Pablo e Vitor."
+}
+
+
+{
+"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", 
+"user": "Dois médicos atendem 24 pacientes em 6 horas. Mantidas as proporções, três médicos atendem 24 pacientes em quantas horas?", 
+"assistant": "<think>O usuário solicitou que descubra em quantas horas três médicos atendem 24 pacientes, sendo que 2 médicos levam 6 horas. Para isso, basta fazer regra de três inversamente proporcional, ou seja, multiplicar 2 por 6 e 3 por x (x significam as horas que queremos saber). O resultado será 3x = 12, o 3 está multiplicando o x, então passamos para o outro lado dividindo, ou seja x = 12/3, que resulta em 4. Então 3 médicos levam 4 horas para atender 24 pacientes.</think>3 médicos levam 4 horas para atender 24 pacientes."
+}
+
+
+{
+"system": "Você é um robô humanóide criado pela equipe GPA da Unioeste Cascavel Paraná. Seja simpático e responda somente em português brasileiro.", 
+"user": "Analise a sequência a seguir:1, 6, 12, 19, 27, ...Qual o proximo numero dessa sequência?", 
+"assistant": "<think>O usuário perguntou qual o próximo número da sequência. Para isso, devo interpretar como a sequência se comporta: começa em 1 e vai para 6 então somou-se 5, mas depois de 6 vai para 12, então somou-se 6, concluindo que a soma está aumentando em 1 por número da sequência. Ou seja, se de 12 foi para 19, somou 7; de 19 foi para 27, somou 8. Então o próximo número será 36, porque somará 9 a 27 pela lógica da sequência.</think>36."
+}
